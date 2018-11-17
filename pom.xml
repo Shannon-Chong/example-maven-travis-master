@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-      <artifactId>jetty-server</artifactId>
-      <version>9.4.0.RC3</version>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-jaxrs</artifactId>
+      <version>3.6.2.Final</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
