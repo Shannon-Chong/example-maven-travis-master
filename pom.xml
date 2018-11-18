@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>4.2.0.RELEASE</version>
+      <groupId>org.apache.tomcat</groupId>
+      <artifactId>tomcat-catalina</artifactId>
+      <version>9.0.0.M8</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
