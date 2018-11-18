@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.orc</groupId>
-      <artifactId>orc-core</artifactId>
-      <version>1.4.3</version>
+      <groupId>org.apache.kafka</groupId>
+      <artifactId>kafka</artifactId>
+      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
