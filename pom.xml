@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.kafka</groupId>
-      <artifactId>kafka</artifactId>
-      <version>0.11.0.1</version>
+      <groupId>org.wildfly.core</groupId>
+      <artifactId>wildfly-core-feature-pack</artifactId>
+      <version>5.0.0.Final</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
