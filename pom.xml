@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.wildfly.core</groupId>
-      <artifactId>wildfly-core-feature-pack</artifactId>
-      <version>5.0.0.Final</version>
+      <groupId>org.red5</groupId>
+      <artifactId>red5-server</artifactId>
+      <version>1.0.7-M10</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
