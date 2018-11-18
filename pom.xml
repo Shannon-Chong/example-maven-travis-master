@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.red5</groupId>
-      <artifactId>red5-server</artifactId>
-      <version>1.0.7-M10</version>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-api</artifactId>
+      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.findbugs</groupId>
